@@ -1,1 +1,3 @@
 Hello world!
+
+System.Console.WriteLine("こんにちは");
